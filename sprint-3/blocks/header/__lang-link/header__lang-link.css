@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Inter';
+   src: url("../../../fonts/inter.css") format("woff2"),
+   url("../../../fonts/inter.css") format("woff");
+}
+.header__lang-link{
+   margin-right: 18px;
+   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 28px;
+   text-align: center;
+   text-decoration-line: none;
+   color: #FFFFFF;
+   transition: opacity .2s linear;
+}
+.header__lang-link:hover{
+   opacity: .8;
+}
+.header__lang-link:nth-of-type(2){
+   margin-right: 0;
+}
+@media screen and (max-width: 768px){
+   .header__lang-link{
+      height: 20px;
+   }
+}

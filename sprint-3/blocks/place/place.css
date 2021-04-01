@@ -1,0 +1,16 @@
+.place{
+   width: 100%;
+   display: flex;
+   flex-flow: row wrap;
+   margin: 0 0 80px;
+}
+@media screen and (max-width: 1024px){
+   .place{
+      margin: 0 0 73px;
+   }
+}
+@media screen and (max-width: 768px){
+   .place{
+      margin: 0 0 50px;
+}
+}

@@ -1,0 +1,32 @@
+@font-face {
+   font-family: 'Inter';
+   src: url("../../../fonts/inter.css") format("woff2"),
+   url("../../../fonts/inter.css") format("woff");
+}
+.lead__caption{
+   width: fit-content;
+   margin: 8px 0 0;
+   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 10px;
+   line-height: 14px;
+   text-transform: uppercase;
+   letter-spacing: 0.15em;
+   color: #FFFFFF;
+}
+@media screen and (max-width: 1024px){
+   .lead__caption{
+      margin: 0 0 0 3%;
+   }
+}
+@media screen and (max-width: 768px){
+   .lead__caption{
+      margin: 0 0 0 3%;
+   }
+}
+@media screen and (max-width: 425px){
+   .lead__caption{
+      margin: 0 0 0 5%;
+   }
+}

@@ -1,0 +1,30 @@
+@font-face {
+   font-family: 'Inter';
+   src: url("../../../fonts/inter.css") format("woff2"),
+   url("../../../fonts/inter.css") format("woff");
+}
+.place__title{
+   margin: 0;
+   min-height: fit-content;
+   width: 47%;
+   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 72px;
+   line-height: 76px;
+   color: #FFFFFF;
+}
+@media screen and (max-width: 1024px){
+   .place__title{
+      font-size: 42px;
+      line-height: 46px;
+   }
+}
+@media screen and (max-width: 768px){
+   .place__title{
+      font-size: 32px;
+      line-height: 35px;
+      width: calc(100% - 5%*2);
+      margin: 0 5% 32px;
+}
+}
