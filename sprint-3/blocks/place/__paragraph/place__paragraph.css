@@ -1,14 +1,7 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/Inter-Thin.woff2?v=3.16") format("woff2"),
-   url("../../../fonts/Inter-Thin.woff?v=3.16") format("woff");
-}
 .place__paragraph{
    width: 100%;
    margin: 0 0 25px;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: normal;
+   font-family: 'Inter - Regular', 'Arial', 'Helvetica', sans-serif;
    font-size: 18px;
    line-height: 163%;
    color: #FFFFFF;

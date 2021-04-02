@@ -1,14 +1,7 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/Inter-Thin.woff2?v=3.16") format("woff2"),
-   url("../../../fonts/Inter-Thin.woff?v=3.16") format("woff");
-}
 .cover__subtitle{
-   width: 340px;
-   margin: 32px auto 0;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: normal;
+   width: 360px;
+   margin: 32px 0 0;
+   font-family: 'Inter - Regular', 'Arial', 'Helvetica', sans-serif;
    font-size: 18px;
    line-height: 22px;
    text-align: center;
@@ -17,8 +10,8 @@
 }
 @media screen and (max-width: 768px){
    .cover__subtitle{
-      width: 248px;
-      margin: 16px auto 0;
+      width: 268px;
+      margin: 16px 0 0;
       font-size: 14px;
       line-height: 16px;
 }

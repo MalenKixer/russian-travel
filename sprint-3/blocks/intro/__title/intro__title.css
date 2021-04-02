@@ -1,17 +1,10 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/Inter-Bold.woff?v=3.16") format("woff"),
-   url("../../../fonts/Inter-Bold.woff2?v=3.16") format("woff2");
-}
 .intro__title{
    width: 100%;
    min-height: fit-content;
    margin: 0 0 40px;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: bold;
+   font-family: 'Inter - Black', 'Arial', 'Helvetica', sans-serif;
    font-size: 54px;
    line-height: 58px;
    color: #FFFFFF;
-   text-rendering: optimizeLegibility; 
+   text-rendering: optimizeLegibility;
 }

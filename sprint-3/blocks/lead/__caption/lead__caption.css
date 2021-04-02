@@ -1,14 +1,7 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/inter.css") format("woff2"),
-   url("../../../fonts/inter.css") format("woff");
-}
 .lead__caption{
    width: fit-content;
    margin: 8px 0 0;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: normal;
+   font-family: 'Inter - Regular', 'Arial', 'Helvetica', sans-serif;
    font-size: 10px;
    line-height: 14px;
    text-transform: uppercase;

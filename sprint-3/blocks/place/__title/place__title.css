@@ -1,15 +1,8 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/Inter-Bold.woff?v=3.16") format("woff"),
-   url("../../../fonts/Inter-Bold.woff2?v=3.16") format("woff2");
-}
 .place__title{
    margin: 0;
    min-height: fit-content;
    width: 47%;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: bold;
+   font-family: 'Inter - Black', 'Arial', 'Helvetica', sans-serif;
    font-size: 72px;
    line-height: 76px;
    color: #FFFFFF;

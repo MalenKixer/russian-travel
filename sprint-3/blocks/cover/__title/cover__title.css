@@ -1,14 +1,7 @@
-@font-face {
-   font-family: 'Inter';
-   src: url("../../../fonts/Inter-Bold.woff?v=3.16") format("woff"),
-   url("../../../fonts/Inter-Bold.woff2?v=3.16") format("woff2");
-}
 .cover__title{
-   width: 540px;
-   margin: 0 auto;
-   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-   font-style: normal;
-   font-weight: bold;
+   width: 560px;
+   margin: 0;
+   font-family: 'Inter - Black', 'Arial', 'Helvetica', sans-serif;
    font-size: 72px;
    line-height: 76px;
    text-align: center;
@@ -18,8 +11,8 @@
 }
 @media screen and (max-width: 768px){
    .cover__title{
-      width: 228px;
-      margin: 0 auto;
+      width: 248px;
+      margin: 0;
       font-size: 32px;
       line-height: 35px;
 }
