@@ -5,7 +5,7 @@
 
 ## В данном проекте применены техники: grid, flex.
 
-## [Ссылка на проект на GitHub](https://malenkixer.github.io/russian-travel/sprint-3/index.html)
+## [Ссылка на проект на GitHub](https://malenkixer.github.io/russian-travel/sprint-3)
 
 
 
