@@ -1,6 +1,6 @@
    .header__logo{
    width: 176px;
-   height: 100%;
+   height: fit-content;
    margin: 0;
    object-fit: cover;
    object-position: center;

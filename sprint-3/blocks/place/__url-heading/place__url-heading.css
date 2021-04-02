@@ -1,7 +1,7 @@
 @font-face {
    font-family: 'Inter';
-   src: url("../../../fonts/inter.css") format("woff2"),
-   url("../../../fonts/inter.css") format("woff");
+   src: url("../../../fonts/Inter-Thin.woff2?v=3.16") format("woff2"),
+   url("../../../fonts/Inter-Thin.woff?v=3.16") format("woff");
 }
 .place__url-heading{
    height: fit-content;
