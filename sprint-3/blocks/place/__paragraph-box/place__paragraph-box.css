@@ -1,10 +1,6 @@
 .place__paragraph-box{
-   max-width: 48%;
-   margin: 48px 0 0;
-}
-@media screen and (max-width: 768px){
-   .place__paragraph-box{
-      max-width: calc(100% - 5%*2);
-      margin: 32px 5% 0;
-}
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   height: fit-content;
 }

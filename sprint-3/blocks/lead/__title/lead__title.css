@@ -2,7 +2,9 @@
    width: 720px;
    margin: 0 calc((100% - 720px)/2);
    min-height: fit-content;
-   font-family: 'Inter - Black', 'Arial', 'Helvetica', sans-serif;
+   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+   font-style: normal;
+   font-weight: 900;
    font-size: 96px;
    line-height: 100px;
    text-align: center;

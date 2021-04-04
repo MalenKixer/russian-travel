@@ -1,8 +1,9 @@
 .place__title{
    margin: 0;
-   min-height: fit-content;
-   width: 47%;
-   font-family: 'Inter - Black', 'Arial', 'Helvetica', sans-serif;
+   height: fit-content;
+   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+   font-style: normal;
+   font-weight: 900;
    font-size: 72px;
    line-height: 76px;
    color: #FFFFFF;
@@ -17,7 +18,5 @@
    .place__title{
       font-size: 32px;
       line-height: 35px;
-      width: calc(100% - 5%*2);
-      margin: 0 5% 32px;
 }
 }

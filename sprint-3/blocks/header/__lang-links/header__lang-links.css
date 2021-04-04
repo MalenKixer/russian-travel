@@ -1,6 +1,7 @@
 .header__lang-links{
    width: fit-content;
    padding: 18px 0 6px;
+   margin: 0;
 }
 @media screen and (max-width: 768px){
    .header__lang-links{
