@@ -4,3 +4,9 @@
    padding: 0;
    height: fit-content;
 }
+@media screen and (max-width: 420px){
+   .place__paragraph-box{
+      width: 90%;
+      margin: 0 5%;
+}
+}

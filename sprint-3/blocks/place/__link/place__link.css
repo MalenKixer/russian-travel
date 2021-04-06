@@ -1,7 +1,5 @@
 .place__link{
    width: fit-content;
-   min-height: fit-content;
-   margin: 12px 0 0;
    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
    font-style: normal;
    font-weight: 400;

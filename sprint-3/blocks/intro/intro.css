@@ -1,23 +1,24 @@
 .intro{
-   width: calc(100% - 11%*2);
+   width: 77%;
    min-height: fit-content;
-   margin: 92px 11% 92px;
-}
-@media screen and (max-width: 1280px){
-   .intro{
-      width: calc(100% - 5%*2);
-      margin: 92px 5% 92px;
-   }
+   margin: 92px 0 92px;
+   text-align: start;
 }
 @media screen and (max-width: 1024px){
    .intro{
-      width: calc(100% - 3%*2);
-      margin: 88px 3% 88px;
+      width: 91%;
+      margin: 92px 0 92px ;
    }
 }
 @media screen and (max-width: 768px){
    .intro{
-      width: calc(100% - 5%*2);
-      margin: 64px 5% 64px;
+      width: 94%;
+      margin: 88px 0 88px;
+   }
+}
+@media screen and (max-width: 420px){
+   .intro{
+      width: 90%;
+      margin: 64px 0 64px;
 }
 }
