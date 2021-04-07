@@ -8,13 +8,17 @@
    line-height: 100px;
    text-align: center;
    color:  #FFFFFF;
-   text-rendering: optimizeLegibility; 
+   text-rendering: optimizeLegibility;
    margin: 0;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 720px){
    .lead__title{
-      max-width: 288px;
       font-size: 40px;
       line-height: 44px;
+}
+}
+@media screen and (max-width: 420px){
+   .lead__title{
+      max-width: 288px;
 }
 }

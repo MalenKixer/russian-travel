@@ -10,7 +10,7 @@
    line-height: 16px;
    color: #FFFFFF;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 720px){
    .footer__copyright{
       width: 100%;
       line-height: 14px;
